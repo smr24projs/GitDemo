@@ -1,0 +1,37 @@
+Git >>> Version control
+
+  v1
+  v2
+  v3
+new v4
+
+>> It is distrubuted (on Cloud)
+>> Collaboration
+>> Tracking Changes
+>> Recovery
+
+Github
+BitBucket
+Gitlabs
+Gitpod
+
+
+>> For first time need to configure Github in our system
+git config --global user.name "smr24projs"
+
+git config --global user.email "sarthakmudholkar@gmail.com"
+
+git config --global color.ui auto
+
+Mandotary commands
+>> git init
+>> git remote add origin https://github.com/smr24projs/GitDemo.git 
+
+
+git pull origin main
+git status
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
